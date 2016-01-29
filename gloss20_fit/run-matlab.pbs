@@ -10,7 +10,7 @@ module purge
 module load centos/bin
 module load matlab/2014a
 
-cd /scratch/gk925/Wendy_brdf_fitting_spray/gloss20_fit
+cd /scratch/gk925/spheron_brdf_fitting/gloss20_fit
 
 if [ "$PBS_JOBTMP" == "" ]; then
     export PBS_JOBTMP=/state/partition1/$USER
