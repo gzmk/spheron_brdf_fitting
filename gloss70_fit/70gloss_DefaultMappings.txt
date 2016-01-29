@@ -1,0 +1,49 @@
+% flip the camera handedness to match Blender-Collada output to Mitsuba and PBRT
+Collada {
+    Camera:scale|sid=scale = -1 1 1
+    % move the camera for each condition
+    % Camera:translate|sid=location = (xCam) (yCam) 0
+    %Camera:translate|sid=location = 0 0 0.1 
+    % Camera_001-camera:rotate|sid=rotationZ = 0 0 1 (rotz)
+    Camera:rotate|sid=rotationY = 0 1 0 0
+    %Camera:rotate|sid=rotationX = 1 0 0 -90
+    % move and resize the sphere to match to photo
+    % Sphere:translate|sid=location = (locx) (locy) 0
+    %Sphere:scale|sid=scale = 2.2 2.2 2.2
+    
+}
+
+% materials
+Generic {
+    Material-material:material:ward
+    Material-material:alphaU.float = (alphau)
+    Material-material:alphaV.float = (alphau)
+    Material-material:diffuseReflectance.spectrum = (ro_d)
+    Material-material:specularReflectance.spectrum = (ro_s)
+}
+
+
+% lights
+Generic {
+	Hemi-light:emitter:envmap
+	Hemi-light:filename.string = spheron_brdf_fitting/room_apt56_exp1_8_dist2m_morelight_cropped_bilinear.hdr
+}
+
+Mitsuba {
+    % use the path integrator with lots of samples
+    integrator:integrator:path
+    Camera-camera_sampler:sampler:ldsampler
+    Camera-camera_sampler:sampleCount.integer = 128
+    %Camera-camera_film:pixelFormat.string = rgb
+}
+
+Mitsuba-path {
+    % change just the type of the existing camera
+    % instead of declaring a brand new camera
+    Camera-camera.type = spherical
+    
+}
+
+
+    
+
