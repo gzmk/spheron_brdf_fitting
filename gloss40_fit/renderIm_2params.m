@@ -76,7 +76,7 @@ montageFile = [montageName '.png'];
 
 % load the monochromatic image and display it
 % imPath = ['/Local/Users/gizem/Documents/Research/GlossBump/Wendy_brdf_fitting_spray/gloss100_fit/', hints.recipeName, '/renderings/Mitsuba/test_sphere-001.mat']
-imPath = ['/scratch/gk925/spheron_brdf_fitting/gloss40_fit/', hints.recipeName, '/renderings/Mitsuba/test_sphere-001.mat']
+imPath = ['/scratch/gk925/spheron_brdf_fitting/gloss40_fit/', hints.recipeName, '/renderings/Mitsuba/spheron_sphere6-001.mat']
 load(imPath, 'multispectralImage');
 im2 = multispectralImage;
 % figure;imshow(im2(:,:,1))
