@@ -104,6 +104,7 @@ photo = renderRegisteredAdjusted6;
 newmask = mask&c_mask;
 
 masked_photo = newmask.*photo;
+save('masked_photo.mat','masked_photo');
 
 mean_photo = mean(mean(masked_photo));
 photoNorm = masked_photo./(mean_photo);
@@ -120,7 +121,7 @@ render_ball = render_ball.*10;
 masked_render = newmask.*render_ball;
 mean_render = mean(mean(masked_render));
 renderedImNorm = masked_render./(mean_render);
-
+save('masked_render.mat','masked_render');
 
 diff = photoNorm-renderedImNorm;
 costIm = sum(sum(diff.^2));

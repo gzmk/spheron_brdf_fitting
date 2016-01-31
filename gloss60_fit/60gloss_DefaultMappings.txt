@@ -33,7 +33,7 @@ Mitsuba {
     % use the path integrator with lots of samples
     integrator:integrator:path
     Camera-camera_sampler:sampler:ldsampler
-    Camera-camera_sampler:sampleCount.integer = 128
+    Camera-camera_sampler:sampleCount.integer = 64
     %Camera-camera_film:pixelFormat.string = rgb
 }
 
