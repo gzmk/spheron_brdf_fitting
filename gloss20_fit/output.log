@@ -1,0 +1,3102 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In gk_hpc_conf at 34] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In ChangeToWorkingFolder at 25
+  In renderIm_2params at 63
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ChangeToWorkingFolder at 28
+  In renderIm_2params at 63
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In MakeSceneFiles at 71
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In MakeSceneFiles at 90
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+
+MakeSceneFiles started at 30-Jan-2016 06:09:47.
+
+Original Collada scene authored with Blender 2.72.0 commit date:2014-10-03, commit time:13:58, hash:95182d1.
+
+
+MakeSceneFiles started with isParallel=0 at 30-Jan-2016 06:09:48.
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 220
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 257
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ResolveMappingsValues at 76
+  In MakeSceneFiles>makeSceneForCondition at 273
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+Using absolute resource path: /scratch/gk925/spheron_brdf_fitting/gloss20_fit/room_apt56_exp1_8_dist2m_morelight_cropped_bilinear.hdr
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 24
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 25
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RTB_ImportCollada_Mitsuba at 53
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+Converting /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/temp/Mitsuba/spheron_sphere6-spheron_sphere6-001-7bit-reduced.dae
+  to /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml.
+
+MakeSceneFiles finished at 30-Jan-2016 06:09:54 (5.6s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In BatchRender at 70
+  In renderIm_2params at 67
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In BatchRender at 80
+  In renderIm_2params at 67
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+*** Failed to find git, returning empty.
+*** Failed to find git, returning empty.
+
+BatchRender started with isParallel=0 at 30-Jan-2016 06:09:56.
+
+
+Starting scene 1 of 1 at 30-Jan-2016 06:09:56 (0.0s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingAbsolutePath at 24
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingAbsolutePath at 27
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In RunMitsuba at 32
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In RunMitsuba at 39
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RunMitsuba at 43
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RunMitsuba at 48
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+/share/apps/mitsuba/0.4.4/intel-SPECTRUM_SAMPLES-1/bin/mitsuba.sh -o /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml
+Read "/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr": width=5414 height=2707 nSlices=1
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In BatchRender>renderScene at 169
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 47
+  In loop_fitbrdf at 17] 
+
+Finished scene 1 of 1 at 30-Jan-2016 06:19:43 (587.3s elapsed).
+
+
+BatchRender finished at 30-Jan-2016 06:19:43 (587.3s elapsed).
+
+
+imPath =
+
+/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.mat
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In ChangeToWorkingFolder at 25
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ChangeToWorkingFolder at 28
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In MakeSceneFiles at 71
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In MakeSceneFiles at 90
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+MakeSceneFiles started at 30-Jan-2016 06:19:44.
+
+Original Collada scene authored with Blender 2.72.0 commit date:2014-10-03, commit time:13:58, hash:95182d1.
+
+
+MakeSceneFiles started with isParallel=0 at 30-Jan-2016 06:19:44.
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 220
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 257
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ResolveMappingsValues at 76
+  In MakeSceneFiles>makeSceneForCondition at 273
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Using absolute resource path: /scratch/gk925/spheron_brdf_fitting/gloss20_fit/room_apt56_exp1_8_dist2m_morelight_cropped_bilinear.hdr
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 24
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 25
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RTB_ImportCollada_Mitsuba at 53
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Converting /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/temp/Mitsuba/spheron_sphere6-spheron_sphere6-001-7bit-reduced.dae
+  to /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml.
+
+MakeSceneFiles finished at 30-Jan-2016 06:19:49 (4.4s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In BatchRender at 70
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In BatchRender at 80
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+*** Failed to find git, returning empty.
+*** Failed to find git, returning empty.
+
+BatchRender started with isParallel=0 at 30-Jan-2016 06:19:50.
+
+
+Starting scene 1 of 1 at 30-Jan-2016 06:19:50 (0.0s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingAbsolutePath at 24
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingAbsolutePath at 27
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In RunMitsuba at 32
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In RunMitsuba at 39
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RunMitsuba at 43
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RunMitsuba at 48
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+/share/apps/mitsuba/0.4.4/intel-SPECTRUM_SAMPLES-1/bin/mitsuba.sh -o /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml
+Read "/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr": width=5414 height=2707 nSlices=1
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In BatchRender>renderScene at 169
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+Finished scene 1 of 1 at 30-Jan-2016 06:31:09 (678.9s elapsed).
+
+
+BatchRender finished at 30-Jan-2016 06:31:09 (678.9s elapsed).
+
+
+imPath =
+
+/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.mat
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In ChangeToWorkingFolder at 25
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ChangeToWorkingFolder at 28
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In MakeSceneFiles at 71
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In MakeSceneFiles at 90
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+MakeSceneFiles started at 30-Jan-2016 06:31:11.
+
+Original Collada scene authored with Blender 2.72.0 commit date:2014-10-03, commit time:13:58, hash:95182d1.
+
+
+MakeSceneFiles started with isParallel=0 at 30-Jan-2016 06:31:11.
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 220
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 257
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ResolveMappingsValues at 76
+  In MakeSceneFiles>makeSceneForCondition at 273
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Using absolute resource path: /scratch/gk925/spheron_brdf_fitting/gloss20_fit/room_apt56_exp1_8_dist2m_morelight_cropped_bilinear.hdr
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 24
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 25
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RTB_ImportCollada_Mitsuba at 53
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Converting /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/temp/Mitsuba/spheron_sphere6-spheron_sphere6-001-7bit-reduced.dae
+  to /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml.
+
+MakeSceneFiles finished at 30-Jan-2016 06:31:17 (5.7s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In BatchRender at 70
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In BatchRender at 80
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+*** Failed to find git, returning empty.
+*** Failed to find git, returning empty.
+
+BatchRender started with isParallel=0 at 30-Jan-2016 06:31:18.
+
+
+Starting scene 1 of 1 at 30-Jan-2016 06:31:18 (0.0s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingAbsolutePath at 24
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingAbsolutePath at 27
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In RunMitsuba at 32
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In RunMitsuba at 39
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RunMitsuba at 43
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RunMitsuba at 48
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+/share/apps/mitsuba/0.4.4/intel-SPECTRUM_SAMPLES-1/bin/mitsuba.sh -o /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml
+Read "/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr": width=5414 height=2707 nSlices=1
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In BatchRender>renderScene at 169
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+Finished scene 1 of 1 at 30-Jan-2016 06:43:58 (760.4s elapsed).
+
+
+BatchRender finished at 30-Jan-2016 06:43:58 (760.4s elapsed).
+
+
+imPath =
+
+/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.mat
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In ChangeToWorkingFolder at 25
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ChangeToWorkingFolder at 28
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In MakeSceneFiles at 71
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In MakeSceneFiles at 90
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+MakeSceneFiles started at 30-Jan-2016 06:43:59.
+
+Original Collada scene authored with Blender 2.72.0 commit date:2014-10-03, commit time:13:58, hash:95182d1.
+
+
+MakeSceneFiles started with isParallel=0 at 30-Jan-2016 06:43:59.
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 220
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 257
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ResolveMappingsValues at 76
+  In MakeSceneFiles>makeSceneForCondition at 273
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Using absolute resource path: /scratch/gk925/spheron_brdf_fitting/gloss20_fit/room_apt56_exp1_8_dist2m_morelight_cropped_bilinear.hdr
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 24
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 25
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RTB_ImportCollada_Mitsuba at 53
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Converting /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/temp/Mitsuba/spheron_sphere6-spheron_sphere6-001-7bit-reduced.dae
+  to /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml.
+
+MakeSceneFiles finished at 30-Jan-2016 06:44:04 (4.7s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In BatchRender at 70
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In BatchRender at 80
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+*** Failed to find git, returning empty.
+*** Failed to find git, returning empty.
+
+BatchRender started with isParallel=0 at 30-Jan-2016 06:44:05.
+
+
+Starting scene 1 of 1 at 30-Jan-2016 06:44:05 (0.0s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingAbsolutePath at 24
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingAbsolutePath at 27
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In RunMitsuba at 32
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In RunMitsuba at 39
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RunMitsuba at 43
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RunMitsuba at 48
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+/share/apps/mitsuba/0.4.4/intel-SPECTRUM_SAMPLES-1/bin/mitsuba.sh -o /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml
+Read "/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr": width=5414 height=2707 nSlices=1
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In BatchRender>renderScene at 169
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+Finished scene 1 of 1 at 30-Jan-2016 06:58:19 (853.8s elapsed).
+
+
+BatchRender finished at 30-Jan-2016 06:58:19 (853.8s elapsed).
+
+
+imPath =
+
+/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.mat
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In ChangeToWorkingFolder at 25
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ChangeToWorkingFolder at 28
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In MakeSceneFiles at 71
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In MakeSceneFiles at 90
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+MakeSceneFiles started at 30-Jan-2016 06:58:20.
+
+Original Collada scene authored with Blender 2.72.0 commit date:2014-10-03, commit time:13:58, hash:95182d1.
+
+
+MakeSceneFiles started with isParallel=0 at 30-Jan-2016 06:58:21.
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 220
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 257
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ResolveMappingsValues at 76
+  In MakeSceneFiles>makeSceneForCondition at 273
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Using absolute resource path: /scratch/gk925/spheron_brdf_fitting/gloss20_fit/room_apt56_exp1_8_dist2m_morelight_cropped_bilinear.hdr
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 24
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 25
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RTB_ImportCollada_Mitsuba at 53
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Converting /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/temp/Mitsuba/spheron_sphere6-spheron_sphere6-001-7bit-reduced.dae
+  to /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml.
+
+MakeSceneFiles finished at 30-Jan-2016 06:58:24 (3.0s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In BatchRender at 70
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In BatchRender at 80
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+*** Failed to find git, returning empty.
+*** Failed to find git, returning empty.
+
+BatchRender started with isParallel=0 at 30-Jan-2016 06:58:25.
+
+
+Starting scene 1 of 1 at 30-Jan-2016 06:58:25 (0.0s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingAbsolutePath at 24
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingAbsolutePath at 27
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In RunMitsuba at 32
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In RunMitsuba at 39
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RunMitsuba at 43
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RunMitsuba at 48
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+/share/apps/mitsuba/0.4.4/intel-SPECTRUM_SAMPLES-1/bin/mitsuba.sh -o /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml
+Read "/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr": width=5414 height=2707 nSlices=1
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In BatchRender>renderScene at 169
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+Finished scene 1 of 1 at 30-Jan-2016 07:14:05 (940.4s elapsed).
+
+
+BatchRender finished at 30-Jan-2016 07:14:05 (940.4s elapsed).
+
+
+imPath =
+
+/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.mat
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In ChangeToWorkingFolder at 25
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ChangeToWorkingFolder at 28
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In MakeSceneFiles at 71
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In MakeSceneFiles at 90
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+MakeSceneFiles started at 30-Jan-2016 07:14:07.
+
+Original Collada scene authored with Blender 2.72.0 commit date:2014-10-03, commit time:13:58, hash:95182d1.
+
+
+MakeSceneFiles started with isParallel=0 at 30-Jan-2016 07:14:07.
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 220
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 257
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ResolveMappingsValues at 76
+  In MakeSceneFiles>makeSceneForCondition at 273
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Using absolute resource path: /scratch/gk925/spheron_brdf_fitting/gloss20_fit/room_apt56_exp1_8_dist2m_morelight_cropped_bilinear.hdr
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 24
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 25
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RTB_ImportCollada_Mitsuba at 53
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Converting /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/temp/Mitsuba/spheron_sphere6-spheron_sphere6-001-7bit-reduced.dae
+  to /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml.
+
+MakeSceneFiles finished at 30-Jan-2016 07:14:11 (3.7s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In BatchRender at 70
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In BatchRender at 80
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+*** Failed to find git, returning empty.
+*** Failed to find git, returning empty.
+
+BatchRender started with isParallel=0 at 30-Jan-2016 07:14:12.
+
+
+Starting scene 1 of 1 at 30-Jan-2016 07:14:12 (0.0s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingAbsolutePath at 24
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingAbsolutePath at 27
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In RunMitsuba at 32
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In RunMitsuba at 39
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RunMitsuba at 43
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RunMitsuba at 48
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+/share/apps/mitsuba/0.4.4/intel-SPECTRUM_SAMPLES-1/bin/mitsuba.sh -o /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml
+Read "/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr": width=5414 height=2707 nSlices=1
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In BatchRender>renderScene at 169
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+Finished scene 1 of 1 at 30-Jan-2016 07:31:07 (1015.5s elapsed).
+
+
+BatchRender finished at 30-Jan-2016 07:31:07 (1015.5s elapsed).
+
+
+imPath =
+
+/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.mat
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In ChangeToWorkingFolder at 25
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ChangeToWorkingFolder at 28
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In MakeSceneFiles at 71
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In MakeSceneFiles at 90
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+MakeSceneFiles started at 30-Jan-2016 07:31:09.
+
+Original Collada scene authored with Blender 2.72.0 commit date:2014-10-03, commit time:13:58, hash:95182d1.
+
+
+MakeSceneFiles started with isParallel=0 at 30-Jan-2016 07:31:09.
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 220
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 257
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ResolveMappingsValues at 76
+  In MakeSceneFiles>makeSceneForCondition at 273
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Using absolute resource path: /scratch/gk925/spheron_brdf_fitting/gloss20_fit/room_apt56_exp1_8_dist2m_morelight_cropped_bilinear.hdr
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 24
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 25
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RTB_ImportCollada_Mitsuba at 53
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Converting /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/temp/Mitsuba/spheron_sphere6-spheron_sphere6-001-7bit-reduced.dae
+  to /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml.
+
+MakeSceneFiles finished at 30-Jan-2016 07:31:14 (4.8s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In BatchRender at 70
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In BatchRender at 80
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+*** Failed to find git, returning empty.
+*** Failed to find git, returning empty.
+
+BatchRender started with isParallel=0 at 30-Jan-2016 07:31:16.
+
+
+Starting scene 1 of 1 at 30-Jan-2016 07:31:16 (0.0s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingAbsolutePath at 24
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingAbsolutePath at 27
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In RunMitsuba at 32
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In RunMitsuba at 39
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RunMitsuba at 43
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RunMitsuba at 48
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+/share/apps/mitsuba/0.4.4/intel-SPECTRUM_SAMPLES-1/bin/mitsuba.sh -o /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml
+Read "/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr": width=5414 height=2707 nSlices=1
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In BatchRender>renderScene at 169
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+Finished scene 1 of 1 at 30-Jan-2016 07:49:37 (1101.7s elapsed).
+
+
+BatchRender finished at 30-Jan-2016 07:49:37 (1101.7s elapsed).
+
+
+imPath =
+
+/scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.mat
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In ChangeToWorkingFolder at 25
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ChangeToWorkingFolder at 28
+  In renderIm_2params at 63
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In MakeSceneFiles at 71
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In MakeSceneFiles at 90
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+
+MakeSceneFiles started at 30-Jan-2016 07:49:38.
+
+Original Collada scene authored with Blender 2.72.0 commit date:2014-10-03, commit time:13:58, hash:95182d1.
+
+
+MakeSceneFiles started with isParallel=0 at 30-Jan-2016 07:49:39.
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 220
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In MakeSceneFiles>makeSceneForCondition at 257
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In ResolveMappingsValues at 76
+  In MakeSceneFiles>makeSceneForCondition at 273
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Using absolute resource path: /scratch/gk925/spheron_brdf_fitting/gloss20_fit/room_apt56_exp1_8_dist2m_morelight_cropped_bilinear.hdr
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 24
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RTB_ImportCollada_Mitsuba at 25
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 32
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 33
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 34
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 35
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingRelativePath at 28
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingRelativePath at 33
+  In RTB_ImportCollada_Mitsuba at 36
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RTB_ImportCollada_Mitsuba at 53
+  In MakeSceneFiles>makeSceneForCondition at 335
+  In MakeSceneFiles at 157
+  In renderIm_2params at 66
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+Converting /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/temp/Mitsuba/spheron_sphere6-spheron_sphere6-001-7bit-reduced.dae
+  to /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml.
+
+MakeSceneFiles finished at 30-Jan-2016 07:49:43 (4.1s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In BatchRender at 70
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In BatchRender at 80
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+*** Failed to find git, returning empty.
+*** Failed to find git, returning empty.
+
+BatchRender started with isParallel=0 at 30-Jan-2016 07:49:44.
+
+
+Starting scene 1 of 1 at 30-Jan-2016 07:49:44 (0.0s elapsed).
+
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingAbsolutePath at 24
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In GetWorkingAbsolutePath at 27
+  In RTB_Render_Mitsuba at 20
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In RunMitsuba at 32
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In RunMitsuba at 39
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In GetDefaultHints at 59
+  In GetWorkingFolder at 48
+  In RunMitsuba at 43
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+[Warning: Your Matlab user folder is empty!  Please set one with the userpath()
+function.] 
+[> In GetUserFolder at 39
+  In InitializeRenderToolbox at 62
+  In SetRenderToolboxLibraryPath at 74
+  In RunMitsuba at 48
+  In RTB_Render_Mitsuba at 23
+  In BatchRender>renderScene at 153
+  In BatchRender at 107
+  In renderIm_2params at 67
+  In gridsearch at 61
+  In loop_fitbrdf at 17] 
+/share/apps/mitsuba/0.4.4/intel-SPECTRUM_SAMPLES-1/bin/mitsuba.sh -o /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/renderings/Mitsuba/spheron_sphere6-001.exr /scratch/gk925/spheron_brdf_fitting/gloss20_fit/Test-SphereFit30-Jan-2016/scenes/Mitsuba/spheron_sphere6-001.xml
+
+------------------------------------------------------------------------
+       Segmentation violation detected at Sat Jan 30 08:04:35 2016
+------------------------------------------------------------------------
+
+Configuration:
+  Crash Decoding     : Disabled
+  Current Visual     : None
+  Default Encoding   : UTF-8
+  GNU C Library      : 2.12 stable
+  MATLAB Architecture: glnxa64
+  MATLAB Root        : /share/apps/matlab/2014a
+  MATLAB Version     : 8.3.0.532 (R2014a)
+  Operating System   : Linux 2.6.32-431.29.2.el6.x86_64 #1 SMP Tue Sep 9 21:36:05 UTC 2014 x86_64
+  Processor ID       : x86 Family 6 Model 62 Stepping 4, GenuineIntel
+  Virtual Machine    : Java 1.7.0_11-b21 with Oracle Corporation Java HotSpot(TM) 64-Bit Server VM mixed mode
+  Window System      : No active display
+
+Fault Count: 1
+
+
+Abnormal termination:
+Segmentation violation
+
+Register State (from fault):
+  RAX = 00002ad25156995e  RBX = 00002ad143fed470
+  RCX = 0000000000000173  RDX = 0000000000000b9b
+  RSP = 00002ad143fed3b8  RBP = 00002ad143fed400
+  RSI = 00002ad143fed670  RDI = 00002ad25156995e
+
+   R8 = 0000000001a2c000   R9 = 0000000040001000
+  R10 = 0000000000000001  R11 = 0000000000000b98
+  R12 = 00002ad143fed670  R13 = 0000000000000b9a
+  R14 = 0000000000000b9b  R15 = 00002ad21156a010
+
+  RIP = 0000003f97c891ab  EFL = 0000000000010202
+
+   CS = 0033   FS = 0000   GS = 0000
+
+Stack Trace (from fault):
+[  0] 0x0000003f97c891ab                                   /lib64/libc.so.6+00561579 memcpy+00000347
+[  1] 0x00002ad1ab6ce529 /share/apps/matlab/2014a/bin/glnxa64/libmwcommandfuns.so+00296233
+[  2] 0x00002ad1ab6cfbfb /share/apps/matlab/2014a/bin/glnxa64/libmwcommandfuns.so+00302075
+[  3] 0x00002ad1ab6d0917 /share/apps/matlab/2014a/bin/glnxa64/libmwcommandfuns.so+00305431
+[  4] 0x00002ad1ab6d0eef /share/apps/matlab/2014a/bin/glnxa64/libmwcommandfuns.so+00306927
+[  5] 0x00002ad12bd81de3 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00417251
+[  6] 0x00002ad12bd6e874 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00338036 _ZN13Mfh_MATLAB_fn11dispatch_fhEiPP11mxArray_tagiS2_+00000244
+[  7] 0x00002ad12ca7020e /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02601486
+[  8] 0x00002ad12ca2b1d0 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02318800
+[  9] 0x00002ad12ca2d1ea /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02327018
+[ 10] 0x00002ad12ca30167 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02339175
+[ 11] 0x00002ad12ca2e26f /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02331247
+[ 12] 0x00002ad12ca2eec4 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02334404
+[ 13] 0x00002ad12ca8c30b /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02716427
+[ 14] 0x00002ad12bdbfad9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00670425 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000697
+[ 15] 0x00002ad12ca7020e /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02601486
+[ 16] 0x00002ad12ca2b1d0 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02318800
+[ 17] 0x00002ad12ca2d1ea /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02327018
+[ 18] 0x00002ad12ca30167 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02339175
+[ 19] 0x00002ad12ca2e26f /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02331247
+[ 20] 0x00002ad12ca2eec4 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02334404
+[ 21] 0x00002ad12ca8c30b /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02716427
+[ 22] 0x00002ad12bdbfad9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00670425 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000697
+[ 23] 0x00002ad12ca7020e /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02601486
+[ 24] 0x00002ad12ca2b1d0 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02318800
+[ 25] 0x00002ad12ca2d1ea /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02327018
+[ 26] 0x00002ad12ca30167 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02339175
+[ 27] 0x00002ad12ca2e26f /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02331247
+[ 28] 0x00002ad12ca2eec4 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02334404
+[ 29] 0x00002ad12ca8c30b /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02716427
+[ 30] 0x00002ad12bdbfad9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00670425 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000697
+[ 31] 0x00002ad12bd7e867 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00403559
+[ 32] 0x00002ad12c9d60e8 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+01970408 inFullFevalFcn+00000232
+[ 33] 0x00002ad12bd81de3 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00417251
+[ 34] 0x00002ad12bd6e874 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00338036 _ZN13Mfh_MATLAB_fn11dispatch_fhEiPP11mxArray_tagiS2_+00000244
+[ 35] 0x00002ad12ca7020e /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02601486
+[ 36] 0x00002ad12ca2b1d0 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02318800
+[ 37] 0x00002ad12ca2d1ea /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02327018
+[ 38] 0x00002ad12ca30167 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02339175
+[ 39] 0x00002ad12ca2e26f /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02331247
+[ 40] 0x00002ad12ca2eec4 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02334404
+[ 41] 0x00002ad12ca8c30b /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02716427
+[ 42] 0x00002ad12bdbfad9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00670425 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000697
+[ 43] 0x00002ad12ca7020e /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02601486
+[ 44] 0x00002ad12ca2b1d0 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02318800
+[ 45] 0x00002ad12ca2d1ea /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02327018
+[ 46] 0x00002ad12ca30167 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02339175
+[ 47] 0x00002ad12ca2e26f /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02331247
+[ 48] 0x00002ad12ca2eec4 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02334404
+[ 49] 0x00002ad12ca8c30b /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02716427
+[ 50] 0x00002ad12bdbfad9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00670425 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000697
+[ 51] 0x00002ad12ca7020e /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02601486
+[ 52] 0x00002ad12ca2b1d0 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02318800
+[ 53] 0x00002ad12ca2d1ea /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02327018
+[ 54] 0x00002ad12ca30167 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02339175
+[ 55] 0x00002ad12ca2e26f /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02331247
+[ 56] 0x00002ad12ca2eec4 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02334404
+[ 57] 0x00002ad12ca8c30b /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02716427
+[ 58] 0x00002ad12bdbfad9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00670425 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000697
+[ 59] 0x00002ad12bd7e867 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00403559
+[ 60] 0x00002ad12cc36277 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04461175
+[ 61] 0x00002ad12cc37bc9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04467657
+[ 62] 0x00002ad12cc383fc /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04469756
+[ 63] 0x00002ad12cab26e3 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02873059
+[ 64] 0x00002ad12cac209e /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02936990
+[ 65] 0x00002ad12cac2183 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02937219
+[ 66] 0x00002ad12cbf8172 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04206962
+[ 67] 0x00002ad12ca2d589 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02327945
+[ 68] 0x00002ad12ca30167 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02339175
+[ 69] 0x00002ad12ca2e26f /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02331247
+[ 70] 0x00002ad12ca2eec4 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02334404
+[ 71] 0x00002ad12ca8c30b /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02716427
+[ 72] 0x00002ad12bdbfad9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00670425 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000697
+[ 73] 0x00002ad12cc362b4 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04461236
+[ 74] 0x00002ad12cc37bc9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04467657
+[ 75] 0x00002ad12cc383fc /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04469756
+[ 76] 0x00002ad12cab26e3 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02873059
+[ 77] 0x00002ad12cac209e /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02936990
+[ 78] 0x00002ad12cac2183 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02937219
+[ 79] 0x00002ad12cbf8172 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04206962
+[ 80] 0x00002ad12ca2d589 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02327945
+[ 81] 0x00002ad12ca30167 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02339175
+[ 82] 0x00002ad12ca2e26f /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02331247
+[ 83] 0x00002ad12ca2eec4 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02334404
+[ 84] 0x00002ad12ca8c30b /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02716427
+[ 85] 0x00002ad12bdbfad9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00670425 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00000697
+[ 86] 0x00002ad12cc362b4 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04461236
+[ 87] 0x00002ad12cc37bc9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04467657
+[ 88] 0x00002ad12cc383fc /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04469756
+[ 89] 0x00002ad12cab26e3 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02873059
+[ 90] 0x00002ad12cac209e /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02936990
+[ 91] 0x00002ad12cac2183 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02937219
+[ 92] 0x00002ad12cbf8172 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+04206962
+[ 93] 0x00002ad12ca2edf8 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02334200
+[ 94] 0x00002ad12ca8c30b /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02716427
+[ 95] 0x00002ad12bdbfc5f /share/apps/matlab/2014a/bin/glnxa64/libmwm_dispatcher.so+00670815 _ZN8Mfh_file11dispatch_fhEiPP11mxArray_tagiS2_+00001087
+[ 96] 0x00002ad12ca5f135 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02531637
+[ 97] 0x00002ad12ca260d9 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02298073
+[ 98] 0x00002ad12ca239e1 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02288097
+[ 99] 0x00002ad12ca23bf1 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02288625
+[100] 0x00002ad12ca25290 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+02294416
+[101] 0x00002ad12c9caa75 /share/apps/matlab/2014a/bin/glnxa64/libmwm_interpreter.so+01923701 _Z51inEvalCmdWithLocalReturnInDesiredWSAndPublishEventsPKcPibbP15inWorkSpace_tag+00000085
+[102] 0x00002ad12acace68   /share/apps/matlab/2014a/bin/glnxa64/libmwiqm.so+00650856 _ZNK3iqm18InternalEvalPlugin24inEvalCmdWithLocalReturnERKSbIDsSt11char_traitsIDsESaIDsEEP15inWorkSpace_tag+00000120
+[103] 0x00002ad12acad328   /share/apps/matlab/2014a/bin/glnxa64/libmwiqm.so+00652072 _ZN3iqm18InternalEvalPlugin7executeEP15inWorkSpace_tagRN5boost10shared_ptrIN14cmddistributor17IIPCompletedEventEEE+00000120
+[104] 0x00002ad122e830c5   /share/apps/matlab/2014a/bin/glnxa64/libmwmcr.so+00434373
+[105] 0x00002ad12ac9f565   /share/apps/matlab/2014a/bin/glnxa64/libmwiqm.so+00595301
+[106] 0x00002ad12ac8db05   /share/apps/matlab/2014a/bin/glnxa64/libmwiqm.so+00523013
+[107] 0x00002ad12af1fad9 /share/apps/matlab/2014a/bin/glnxa64/libmwbridge.so+00121561 _Z10ioReadLinebP8_IO_FILERKN5boost8optionalIKP15inWorkSpace_tagEEb+00000345
+[108] 0x00002ad12af20081 /share/apps/matlab/2014a/bin/glnxa64/libmwbridge.so+00123009
+[109] 0x00002ad12af24c2d /share/apps/matlab/2014a/bin/glnxa64/libmwbridge.so+00142381
+[110] 0x00002ad12af24fe9 /share/apps/matlab/2014a/bin/glnxa64/libmwbridge.so+00143337
+[111] 0x00002ad12af2570b /share/apps/matlab/2014a/bin/glnxa64/libmwbridge.so+00145163 _Z8mnParserv+00000587
+[112] 0x00002ad122e9092f   /share/apps/matlab/2014a/bin/glnxa64/libmwmcr.so+00489775 _ZN11mcrInstance30mnParser_on_interpreter_threadEv+00000031
+[113] 0x00002ad122e71b6d   /share/apps/matlab/2014a/bin/glnxa64/libmwmcr.so+00363373
+[114] 0x00002ad122e71be9   /share/apps/matlab/2014a/bin/glnxa64/libmwmcr.so+00363497
+[115] 0x00002ad122706e33 /share/apps/matlab/2014a/bin/glnxa64/libmwservices.so+01646131 _ZN10eventqueue18UserEventQueueImpl5flushEv+00000611
+[116] 0x00002ad12d5ad1ed   /share/apps/matlab/2014a/bin/glnxa64/libmwuix.so+00221677
+[117] 0x00002ad1227ac6ea /share/apps/matlab/2014a/bin/glnxa64/libmwservices.so+02324202
+[118] 0x00002ad1227aca24 /share/apps/matlab/2014a/bin/glnxa64/libmwservices.so+02325028
+[119] 0x00002ad1227a857f /share/apps/matlab/2014a/bin/glnxa64/libmwservices.so+02307455
+[120] 0x00002ad1227ad9b5 /share/apps/matlab/2014a/bin/glnxa64/libmwservices.so+02329013
+[121] 0x00002ad1227adde7 /share/apps/matlab/2014a/bin/glnxa64/libmwservices.so+02330087
+[122] 0x00002ad1227ae4c0 /share/apps/matlab/2014a/bin/glnxa64/libmwservices.so+02331840 _Z25svWS_ProcessPendingEventsiib+00000080
+[123] 0x00002ad122e72098   /share/apps/matlab/2014a/bin/glnxa64/libmwmcr.so+00364696
+[124] 0x00002ad122e723bf   /share/apps/matlab/2014a/bin/glnxa64/libmwmcr.so+00365503
+[125] 0x00002ad122e6d28f   /share/apps/matlab/2014a/bin/glnxa64/libmwmcr.so+00344719
+[126] 0x0000003f98807851                             /lib64/libpthread.so.0+00030801
+[127] 0x0000003f97ce811d                                   /lib64/libc.so.6+00950557 clone+00000109
+
+
+If this problem is reproducible, please submit a Service Request via:
+    http://www.mathworks.com/support/contact_us/
+
+A technical support engineer might contact you with further information.
+
+Thank you for your help.** This crash report has been saved to disk as /home/gk925/matlab_crash_dump.21676-1 **
+
+
+
+MATLAB is exiting because of fatal error
+/share/apps/centos/bin/xvfb-run: line 166: 21676 Killed                  DISPLAY=:$SERVERNUM XAUTHORITY=$AUTHFILE "$@" 2>&1
+/share/apps/centos/bin/xvfb-run: line 171: kill: (21666) - No such process

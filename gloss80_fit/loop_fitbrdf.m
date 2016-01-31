@@ -14,7 +14,7 @@ fitname1 = '80percent_params.mat';
 
 for i = 1:iter
     
-    [XBest, BestF] = gridsearch(@renderIm_2params, LB_2, UB_2, 10, 0.25, 1e-4, 100, 1, 1);
+    [XBest, BestF] = gridsearch(@renderIm_2params, LB_2, UB_2, 5, 0.5, 1e-4, 10, 1, 1);
     sprintf('This is XBest:');
     XBest;
     bestParams = [bestParams;XBest];
