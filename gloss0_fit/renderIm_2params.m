@@ -121,7 +121,7 @@ render_ball = render_ball.*10;
 masked_render = newmask.*render_ball;
 mean_render = mean(mean(masked_render));
 renderedImNorm = masked_render./(mean_render);
-save('masked_render.mat','masked_render');
+save('render_ball.mat','render_ball');
 
 diff = photoNorm-renderedImNorm;
 costIm = sum(sum(diff.^2));
