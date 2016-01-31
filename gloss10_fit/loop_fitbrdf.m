@@ -3,7 +3,7 @@
 function loop_fitbrdf(iter)
 
 % init 2 param fitting
-LB_2 = [0.0, 0.0];
+LB_2 = [0.0, 0.01];
 UB_2 = [1.0, 1.0];
 
 
