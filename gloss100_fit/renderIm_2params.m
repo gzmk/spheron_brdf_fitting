@@ -92,8 +92,8 @@ im2 = multispectralImage;
 % gloss = imread('registered40.pgm','pgm'); % turn this into a variable
 
 % prepare a mask image for %40
-mask = zeros(380,380);
-mask(260:380, 1:380)=1;
+mask = zeros(380,379);
+mask(260:380, 1:379)=1;
 mask = logical(mask);
 mask = ~mask;
 % imshow(mask)
