@@ -98,12 +98,12 @@ mask = logical(mask);
 mask = ~mask;
 % imshow(mask)
 
-cx=180;cy=205;ix=380;iy=380;r1=115;r2=125; 
+cx=179;cy=207;ix=379;iy=380;r1=121;r2=121; 
 [x,y]=meshgrid(-(cx-1):(ix-cx),-(cy-1):(iy-cy));
 c_mask=(((x.^2.*r1^2)+(y.^2.*r2^2))<=r1^2*r2^2);
 
-load('registered100.mat') % make this a variable
-photo = registered100;
+load('registered100_fit.mat') % make this a variable
+photo = J;
 % imshow(c_mask.*photo)
 newmask = mask&c_mask;
 

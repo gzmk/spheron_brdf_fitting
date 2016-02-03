@@ -21,7 +21,7 @@ for i = 1:iter
     bestfit_2pr = [bestfit_2pr;BestF];
 
     
-    imname = strcat('/scratch/gk925/spheron_brdf_fittings/gloss0_fit/fit_results/multispectral/', fitname1);
+    imname = strcat('/scratch/gk925/spheron_brdf_fitting/gloss0_fit/fit_results/multispectral/', fitname1);
     save(imname, 'bestParams','bestfit_2pr');
     
 end
