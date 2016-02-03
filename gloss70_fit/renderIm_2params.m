@@ -115,7 +115,7 @@ photoNorm = masked_photo./(mean_photo);
 
 renderedIm = im2; %for multispectral rendering
 renderedIm = imcrop(renderedIm, [2517 0 379 2707]);
-render_ball = imcrop(renderedIm, [1 1192 380 379]);
+render_ball = imcrop(renderedIm, [0 1192 379 379]);
 render_ball = render_ball.*10;
 masked_render = newmask.*render_ball;
 mean_render = mean(mean(masked_render));
