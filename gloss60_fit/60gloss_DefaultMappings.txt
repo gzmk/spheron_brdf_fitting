@@ -26,7 +26,7 @@ Generic {
 % lights
 Generic {
 	Hemi-light:emitter:envmap
-	Hemi-light:filename.string = room_apt56_exp1_8_dist2m_morelight_cropped_bilinear.hdr
+	Hemi-light:filename.string = room_green2blue2.hdr
 }
 
 Mitsuba {
